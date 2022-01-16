@@ -12,7 +12,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
+* Info Lebih Lanjut, Chat [owner-rikka](https://t.me/erosei_1)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
