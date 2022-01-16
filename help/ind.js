@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot Beta :*
+*📚 List-Menu Rikka Beta :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -173,6 +173,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Xfarr api
 ├ Fatih A.
 ├ ZeeoneOfc
+├ Sophia
 ├ Baileys#multi-device
 ├ And all support
 └──────
@@ -211,9 +212,9 @@ Sanksi: *‼️ PERMANENT BLOCK ‼️*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan Rikka di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Rikka
 😖🙏
 
 
@@ -223,7 +224,7 @@ exports.source = (prefix) =>{
 return`*── 「 SOURCE 」 ──*
 
 Original : https://github.com/rashidsiregar28/chikabot
-Sc Recode : https://github.com/zeeoneofc/Alphabot-Md
+Sc Recode : https://github.com/sophiashirashaki/Rikka-Md
 `
 }
 exports.tos = (ownerNumber, prefix) => {
