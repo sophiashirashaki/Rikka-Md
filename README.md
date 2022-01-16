@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStH_A0WKtnRtD_Bla6B71LjtP-GtYOkacYsg&usqp=CAU" alt="CHIKA BOT" width="500"/>
+<img src="https://telegra.ph/file/1b7fba8f493e6eb06bacd.jpg" alt="RIKKA BOT" width="500"/>
 
 
 </p>
