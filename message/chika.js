@@ -1,6 +1,6 @@
 "use strict";
 
-//Module
+//Modul
 const { 
     downloadContentFromMessage
  } = require("@adiwajshing/baileys-md");
