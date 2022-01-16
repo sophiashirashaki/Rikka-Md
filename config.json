@@ -1,7 +1,8 @@
 {
-  "ownerNumber": ["62887435047326@s.whatsapp.net"],
-  "botName": "AlphabotMD",
-  "message" : "62887435047326",
+  "ownerNumber": ["{nomor kamu}@s.whatsapp.net"],
+  "botName": "Rikka-Md",
+  "message" : "{nomor kamu}",
   "sessionName": "session",
   "pathImg": "./media/lol.jpg"
 }
+  //Note: tanda {} hapus saja
